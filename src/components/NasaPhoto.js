@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import '../.env';
 import apiData from '../config.json';
 import Navbar from './Navbar';
 
