@@ -34,7 +34,6 @@ export default function NasaPhoto() {
                         className="photo"
                         src={photoData.url}
                         alt={photoData.title}
-                        className="photo"
                     />
                 ) : (
                         <iframe
