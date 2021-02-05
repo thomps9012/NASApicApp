@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import apiData from '../config.json';
 import Navbar from './Navbar';
+import './NasaPhoto.css';
 
 const apiKey = apiData.REACT_APP_NASA_KEY;
 console.log(apiData);
